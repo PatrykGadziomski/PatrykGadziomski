@@ -14,6 +14,7 @@
 <h3>Programmming Languages:</h3>
 <div style="display: inline;">
   <img src="https://github.com/PatrykGadziomski/PatrykGadziomski/blob/main/python.png" width="30px">
+  <p></p>
   <img src="https://github.com/PatrykGadziomski/PatrykGadziomski/blob/main/R_logo.svg.png" width="30px">
   <img src="https://github.com/PatrykGadziomski/PatrykGadziomski/blob/main/excel.png" width="30px">
   <img src="https://github.com/PatrykGadziomski/PatrykGadziomski/blob/main/sql-server.png" width="30px">
