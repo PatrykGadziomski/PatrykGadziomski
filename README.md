@@ -12,4 +12,5 @@
 </ul>
 
 <h3>Contact me:</h3>
-<a href="https://www.linkedin.com/in/patryk-gadziomski-75215a239/" target="blank"><img src="https://github.com/PatrykGadziomski/PatrykGadziomski/blob/main/linkedin.png" width="30px"></a>
+<a href="https://www.linkedin.com/in/patryk-gadziomski-75215a239/" target="blank"><img src="https://github.com/PatrykGadziomski/PatrykGadziomski/blob/main/linkedin.png" width="40px"></a>
+
