@@ -4,7 +4,7 @@
 
 <h3>I'm a student with interest in Data Analysis and Data Science!</h3>
 
-<img align="right" width="400px" src="https://github.com/PatrykGadziomski/PatrykGadziomski/blob/main/3515462.png">
+<img align="right" width="500px" src="https://github.com/PatrykGadziomski/PatrykGadziomski/blob/main/3515462.png">
 
 <ul align="left">
   <li>🎓 Currently I study Information Science at the Media University in Stuttgart, Germany</li>
