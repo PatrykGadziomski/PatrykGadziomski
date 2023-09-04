@@ -2,6 +2,8 @@
 
 <h1> Hi there 👋 </h1>
 
+<img align="right" src="https://github.com/PatrykGadziomski/PatrykGadziomski/blob/main/3515462.png">
+
 
 
 <!--
