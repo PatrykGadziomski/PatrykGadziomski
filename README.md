@@ -1,7 +1,9 @@
 ![Header](./github-header-image.png)
-### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PatrykGadziomski)](https://github.com/anuraghazra/github-readme-stats)
+<h1> Hi there 👋 </h1>
+
+
+
 <!--
 **PatrykGadziomski/PatrykGadziomski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
