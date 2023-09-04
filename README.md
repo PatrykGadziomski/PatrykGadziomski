@@ -10,3 +10,7 @@
   <li>🎓 Currently I study Information Science at the Media University in Stuttgart, Germany</li>
   <li>💻 I’m currently learning PyTorch and NLP</li>
 </ul>
+
+<h3>Contact me:</h3>
+<a href="https://www.linkedin.com/in/patryk-gadziomski-75215a239/" target="blank"><img src="https://github.com/PatrykGadziomski/PatrykGadziomski/blob/main/linkedin.png" width="40px"></a>
+
