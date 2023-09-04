@@ -12,17 +12,19 @@
 </ul>
 
 <h3>Programmming Languages:</h3>
-<img src="https://github.com/PatrykGadziomski/PatrykGadziomski/blob/main/python.png" width="30px">
-<img src="https://github.com/PatrykGadziomski/PatrykGadziomski/blob/main/R_logo.svg.png" width="30px">
-<img src="https://github.com/PatrykGadziomski/PatrykGadziomski/blob/main/excel.png" width="30px">
-<img src="https://github.com/PatrykGadziomski/PatrykGadziomski/blob/main/sql-server.png" width="30px">
-<img src="https://github.com/PatrykGadziomski/PatrykGadziomski/blob/main/html.png" width="30px">
-<img src="https://github.com/PatrykGadziomski/PatrykGadziomski/blob/main/css-3.png" width="30px">
-<img src="https://github.com/PatrykGadziomski/PatrykGadziomski/blob/main/java-script.png" width="30px">
-<img src="https://github.com/PatrykGadziomski/PatrykGadziomski/blob/main/visual-studio-code-logo-png-transparent.png" width="30px">
-<img src="https://github.com/PatrykGadziomski/PatrykGadziomski/blob/main/tableau-LOGO-new02.5c999da7245fd3cb2ad15cde4bf90d0432b626ef.png" width="30px">
-<img src="https://github.com/PatrykGadziomski/PatrykGadziomski/blob/main/github%20(1).png" width="30px">
-<img src="https://github.com/PatrykGadziomski/PatrykGadziomski/blob/main/KNIME_Logo_5000x1303_transp.png" width="30px">
+<div style="display: inline;">
+  <img src="https://github.com/PatrykGadziomski/PatrykGadziomski/blob/main/python.png" width="30px">
+  <img src="https://github.com/PatrykGadziomski/PatrykGadziomski/blob/main/R_logo.svg.png" width="30px">
+  <img src="https://github.com/PatrykGadziomski/PatrykGadziomski/blob/main/excel.png" width="30px">
+  <img src="https://github.com/PatrykGadziomski/PatrykGadziomski/blob/main/sql-server.png" width="30px">
+  <img src="https://github.com/PatrykGadziomski/PatrykGadziomski/blob/main/html.png" width="30px">
+  <img src="https://github.com/PatrykGadziomski/PatrykGadziomski/blob/main/css-3.png" width="30px">
+  <img src="https://github.com/PatrykGadziomski/PatrykGadziomski/blob/main/java-script.png" width="30px">
+  <img src="https://github.com/PatrykGadziomski/PatrykGadziomski/blob/main/visual-studio-code-logo-png-transparent.png" width="30px">
+  <img src="https://github.com/PatrykGadziomski/PatrykGadziomski/blob/main/tableau-LOGO-new02.5c999da7245fd3cb2ad15cde4bf90d0432b626ef.png" width="30px">
+  <img src="https://github.com/PatrykGadziomski/PatrykGadziomski/blob/main/github%20(1).png" width="30px">
+  <img src="https://github.com/PatrykGadziomski/PatrykGadziomski/blob/main/KNIME_Logo_5000x1303_transp.png" width="30px">
+</div>
 
 
 <h3>Connect with me:</h3>
