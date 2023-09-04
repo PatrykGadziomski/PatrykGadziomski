@@ -1,5 +1,8 @@
 ![Header](./github-header-image.png)
-### Hi there 👋
+
+<h1> Hi there 👋 </h1>
+
+
 
 <!--
 **PatrykGadziomski/PatrykGadziomski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
