@@ -11,7 +11,7 @@
   <li>💻 I’m currently learning PyTorch and NLP</li>
 </ul>
 
-<h3>Programmming Languages:</h3>
+<h3>Languages and Tools:</h3>
 <div style="display: inline;">
   <img src="https://github.com/PatrykGadziomski/PatrykGadziomski/blob/main/python.png" width="30px">
   <img src="https://github.com/PatrykGadziomski/PatrykGadziomski/blob/main/R_logo.svg.png" width="30px">
