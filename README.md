@@ -2,7 +2,7 @@
 
 <h1> Hi there 👋 </h1>
 
-<h3>I'm a student with interest in Data Analysis and Data Science!</h3>
+<h3>I'm a student with interest in Information and Data Science!</h3>
 
 <img align="right" width="500px" src="https://github.com/PatrykGadziomski/PatrykGadziomski/blob/main/3515462.png">
 
