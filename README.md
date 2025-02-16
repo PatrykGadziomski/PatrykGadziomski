@@ -36,6 +36,3 @@
   <img alt="Github" src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"/>
   <img alt="LikedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"/>
 </p>
-
-<h3>Connect with me:</h3>
-<a href="https://www.linkedin.com/in/patryk-gadziomski-75215a239/" target="blank"><img src="https://github.com/PatrykGadziomski/PatrykGadziomski/blob/main/linkedin.png" width="40px"></a>
