@@ -7,6 +7,7 @@
 <ul align="left">
   <li>🎓 Currently I study Information Science at the Media University in Stuttgart, Germany</li>
 </ul>
+<img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
 
 <h3>Languages and Tools:</h3>
 <div style="display: inline;">
