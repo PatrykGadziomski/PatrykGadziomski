@@ -6,7 +6,6 @@
 
 <ul align="left">
   <li>🎓 Currently I study Information Science at the Media University in Stuttgart, Germany</li>
-  <li>💻 I’m currently learning PyTorch and NLP</li>
 </ul>
 
 <h3>Languages and Tools:</h3>
