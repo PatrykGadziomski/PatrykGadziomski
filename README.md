@@ -1,5 +1,3 @@
-![Header](./github-banner.png)
-
 <h1> Hi there 👋 </h1>
 
 <h3>I'm a student with interest in Information and Data Science!</h3>
