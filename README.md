@@ -8,7 +8,7 @@
   <li>🎓 Currently I study Information Science at the Media University in Stuttgart, Germany</li>
 </ul>
 
-<h3>Languages and Tools:</h3>
+<h3>Things I use:</h3>
 
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff"/>
@@ -27,9 +27,16 @@
   <img alt="SQLite" src="https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white"/>
   <img alt="Visual Studio Code" src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white"/>
   <img alt="Obsidian" src="https://img.shields.io/badge/Obsidian-%23483699.svg?&logo=obsidian&logoColor=white"/>
+  <img alt="Notion" src="https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff"/>
   <img alt="Hugging Face" src="https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000"/>
   <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)"/>
-
+  <img alt="Anaconda" src="https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=fff"/>
+  <img alt="Godot" src="https://img.shields.io/badge/Godot-%23FFFFFF.svg?logo=godot-engine"/>
+  <img alt="Windows" src="https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white"/>
+  <img alt="Markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white"/>
+  <img alt="Discord" src="https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white"/>
+  <img alt="Github" src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"/>
+  <img alt="LikedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"/>
 </p>
 
 <h3>Connect with me:</h3>
