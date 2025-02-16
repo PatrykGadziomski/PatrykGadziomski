@@ -1,9 +1,9 @@
 <h1> Hi there 👋 </h1>
 
-<h3>I'm a student with interest in Information and Data Science!</h3>
+<h3>I am a student interested in Information and Data Science!</h3>
 
 <ul align="left">
-  <li>🎓 Currently I study Information Science at the Media University in Stuttgart, Germany</li>
+  <li>🎓 I am currently studying computer science at the Hochschule der Medien in Stuttgart, Germany.</li>
 </ul>
 
 <h3>Things I use:</h3>
