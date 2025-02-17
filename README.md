@@ -3,7 +3,7 @@
 <h3>I am a student interested in Information and Data Science!</h3>
 
 <ul align="left">
-  <li>🎓 I am currently studying computer science at the Hochschule der Medien in Stuttgart, Germany.</li>
+  <li>🎓 I am currently studying information science at the Hochschule der Medien in Stuttgart, Germany.</li>
 </ul>
 
 <h3>Things I use:</h3>
